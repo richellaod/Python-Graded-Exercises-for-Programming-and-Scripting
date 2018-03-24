@@ -1,12 +1,8 @@
 # A program that displays Fibonacci numbers using people's names.
-
-
-
 Richella O'Driscoll Week 1 and Week 2 Exercises
 
 
-
-#Week 1 Exercise- Fibonacci
+# Week 1 Exercise- Fibonacci
 
 
 def fib(n):
@@ -27,7 +23,7 @@ ans = fib(x)
 print("Fibonacci number", x, "is", ans)
 
 
-#Week 2 Exercise
+# Week 2 Exercise
 
 
 # A program that displays Fibonacci numbers using people's names.
@@ -50,7 +46,7 @@ def fib(n):
 
   return i
   
-#My name is Richella, then the first and last letter of my name give the number 19 (R+A = 19). The 19th Fibonacci number is 4181. 
+# My name is Richella, then the first and last letter of my name give the number 19 (R+A = 19). The 19th Fibonacci number is 4181. 
 
 name = "ODriscoll"
 
